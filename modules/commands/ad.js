@@ -48,16 +48,16 @@ const fs = global.nodemodule["fs-extra"];
 "https://4.bp.blogspot.com/-yAExPAr7JeA/WDaBRVuJwxI/AAAAAAALb7I/Dbvda0KD5uECF3_SBjsvkl2_mqP9_BweQCLcB/s1600/AS000834_17.gif",
   ];
   var callback = () => api.sendMessage({body:`🧸ADMIN🐸
-  • Tên: Vương Tiến Thành
-  • Tuổi: 17
+  • ADMIn xAmLul
+  • - Hiện tại : Cánh Cụt Không Bay
   • Giới tính: Nam 
   • Chiều cao / cân nặng: 1m69 / 55kg
   • Mối quan hệ: Độc Thân
-  • Quê quán: Hà Giang
-  • Nơi ở: Nậm Dịch-Hoàng Su Phì
+  • Quê quán: Bắc cực
+  • Nơi ở: Miền bắc sa mạc
   • Cung: Sư tử
   • Gu: Ngực tấn công, mông phòng thủ
-  • Tính cách: Tìm hiểu
+  • Tính cách: ToXIc
   📱 Facebook: https://www.facebook.com/profile.php?id=100087983876635
 📢 Lưu ý cho các qtv và tv trong box:
 - Nếu bot ko hoạt động hay bị lỗi hay liên hệ qua sdt hoặc nhắn tin mess để được liên hệ trực tiếp với mình
